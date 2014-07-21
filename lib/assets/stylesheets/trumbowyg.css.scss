@@ -375,7 +375,7 @@
   width:35px;
   height:35px;
   overflow:hidden;
-  background:transparent asset_url('/assets/icons-sa75ce98b2b.png') no-repeat;
+  background:transparent image-url('/assets/icons-sa75ce98b2b.png') no-repeat;
   border:none;
   cursor:pointer;
   -moz-transition:all 0.15s;
@@ -456,7 +456,7 @@
 @media only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 4 / 3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx){
   .trumbowyg-button-pane li button{
     background-size:72%;
-    background-image: asset_url('/assets/icons-2x-s9034954e6d.png')
+    background-image: image-url('/assets/icons-2x-s9034954e6d.png')
   }
   .trumbowyg-button-pane li button.trumbowyg-viewHTML-button{
     background-position:5px -545px
