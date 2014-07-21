@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.summary     = %q{A WYSIWYG editor for the Rails 3.1 asset pipeline.}
   s.description = %q{Trumbowyg is a WYSIWYG editor.}
 
-  s.files       = Dir["Gemfile", "README.md", "trumbowyg.gemspec", "lib/**/*"]
+  s.files       = Dir["Gemfile", "README.md", "trumbowyg.gemspec", "lib/**/*", "lib/assets/images/*.png"]
 
   s.require_paths = ["lib"]
   s.add_dependency('rails', '>= 3.1')
